@@ -13,11 +13,12 @@ this domain for potential participants of the AAAI Spring Symposium on
 Interpreting Clinical Data.  However, it is not meant to be a rigorous
 or comprehensive review of the subject.
 
-Isaac  Kohane, AIM-94 Co-Chair
-8/27/1993
-aim-94@camis.stanford.edu
+**Author:** Isaac Kohane, AIM-94 Co-Chair  
+**Date:** 8/27/1993  
+**Contact:** aim-94@camis.stanford.edu
 
 ------------------------------------------------------------------------
+## Backround
 
 Patients with IDDM are insulin deficient. This can either be due to a)
 low or absent production of insulin by the beta islet cells of the
