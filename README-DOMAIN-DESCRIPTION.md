@@ -1,3 +1,8 @@
+## Domain Description (Source: Kaggle Dataset Documentation)
+
+The following description was provided with the dataset and gives background on diabetes monitoring and blood glucose dynamics.
+
+
 ## Domain Overview: Diabetes Monitoring
 
 This dataset relates to the management of insulin-dependent diabetes mellitus (IDDM), where patients must carefully balance insulin, diet, and exercise to maintain healthy blood glucose (BG) levels.
