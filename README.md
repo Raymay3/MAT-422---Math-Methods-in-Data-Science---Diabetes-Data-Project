@@ -1,4 +1,4 @@
-## Diabetes Risk Prediction Machine Learning Team Research Project (2024).  
+# Diabetes Risk Prediction Machine Learning Team Research Project (2024).  
 • Built predictive machine learning models (logistic regression, random forest, SVM, gradient 
 boosting, neural networks) using Python and scikit-learn to classify diabetes risk from clinical data. 
 
@@ -12,9 +12,7 @@ to identify key predictors
 98.08% accuracy and AUC 0.995 with a neural network model
 
 
-
-
-
+------------------------
 The DIABETES data sets in this directory are provided for use in 1994 
 AI in Medicine symposium submissions.  Permission is granted to use the
 data sets for other research purposes as long as appropriate credit is
@@ -22,7 +20,7 @@ given as to the source (AIM-94 data set provided by Michael Kahn, MD, PhD,
 Washington University, St. Louis, MO).
 
 
-# Index:
+## Index:
 ------
 
 * Data-Codes: a listing of the codes used in the data sets.
@@ -36,7 +34,7 @@ available two weeks prior to the symposium for interested parties.  Please
 contact the organizers if you would like to obtain these data sets.
 
 
-# Methods:
+## Methods:
 --------
 
 You do not need to use all the data in order to participate.  Use any 
@@ -47,7 +45,7 @@ on related (i.e., clinical data interpretation) topics.  If in doubt,
 consult with us via e-mail at <aim-94@camis.stanford.edu>.
 
 
-# The 'Matchmaker' Service:
+## The 'Matchmaker' Service:
 -------------------------
 
 We realize that an accurate interpretation of clinical data requires 
